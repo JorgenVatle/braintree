@@ -78,7 +78,7 @@ This package wraps the methods below. These are all the methods that are listed 
 ##Webhooks (Example) ##
 
 This example uses Iron Router but you can you any server side routing package
-
+```es6
     Router.route('receiveMerchantUpdate', function () {
     
           // NodeJS request object
@@ -131,3 +131,4 @@ This example uses Iron Router but you can you any server side routing package
           where: 'server',
           path: 'hooks/processor/merchants'
         });
+```
