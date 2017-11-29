@@ -75,7 +75,7 @@ This package wraps the methods below. These are all the methods that are listed 
 	 * [`submitForSettlement(transactionId)`](https://developers.braintreepayments.com/javascript+node/reference/request/transaction/submit-for-settlement)
 	 * [`void(transactionId)`](https://developers.braintreepayments.com/javascript+node/reference/request/transaction/void)
 
-##Webhooks (Example) ##
+## Webhooks (Example)
 
 This example uses Iron Router but you can you any server side routing package
 ```es6
