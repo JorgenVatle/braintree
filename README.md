@@ -25,9 +25,9 @@ try{
 
 ## Client API ##
 In case you are wanting to use the client API to create the nonce token you should include the following script in your `head.html` file 
-~~~
-	<script src="https://js.braintreegateway.com/v2/braintree.js"></script>
-~~~
+```html
+<script src="https://js.braintreegateway.com/v2/braintree.js"></script>
+```
 
 ## Wrapped API ##
 
